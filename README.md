@@ -20,3 +20,7 @@ https://docs.ultralytics.com/guides/#real-world-projects
 
 Ultralytics YOLO with DOCKER :
 https://docs.ultralytics.com/guides/docker-quickstart/
+
+
+YOLO object isolation after segmentation:
+https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with-transparent-pixels-sub-options
