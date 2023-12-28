@@ -24,3 +24,13 @@ https://docs.ultralytics.com/guides/docker-quickstart/
 
 YOLO object isolation after segmentation:
 https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with-transparent-pixels-sub-options
+
+
+
+
+
+Dataset:
+------------
+
+Underwater TrashCan 1.0
+https://conservancy.umn.edu/handle/11299/214865
