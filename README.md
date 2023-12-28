@@ -13,3 +13,10 @@ https://docs.ultralytics.com/tasks/segment/#models
 
 Ultralytics YOLO dataset guide :
 https://docs.ultralytics.com/datasets/segment/#coco-dataset-format-to-yolo-format
+
+
+Ultralytics real world project :
+https://docs.ultralytics.com/guides/#real-world-projects
+
+Ultralytics YOLO with DOCKER :
+https://docs.ultralytics.com/guides/docker-quickstart/
