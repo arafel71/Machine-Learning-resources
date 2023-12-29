@@ -1,6 +1,7 @@
 Image segmentation :
 -------------------
 YOLOV8
+********
 underwater trashcan
 https://learnopencv.com/train-yolov8-instance-segmentation/
 
@@ -33,6 +34,9 @@ https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with
 
 Kaggle YOLOV8 how to use it:
 https://www.kaggle.com/code/kelde9/yolov8-how-to-use-it
+
+BINARY MASK SEGMENTATION
+**************************
 
 Youtube Binary mask custom segmentation
 https://www.youtube.com/watch?v=udR6SwojYXo
