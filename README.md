@@ -31,6 +31,9 @@ https://docs.ultralytics.com/modes/predict/#thread-safe-inference
 YOLO object isolation after segmentation:
 https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with-transparent-pixels-sub-options
 
+Kaggle YOLOV8 how to use it:
+https://www.kaggle.com/code/kelde9/yolov8-how-to-use-it
+
 Youtube Binary mask custom segmentation
 https://www.youtube.com/watch?v=udR6SwojYXo
 
