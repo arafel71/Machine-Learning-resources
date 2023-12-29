@@ -24,6 +24,9 @@ https://docs.ultralytics.com/guides/#real-world-projects
 Ultralytics YOLO with DOCKER :
 https://docs.ultralytics.com/guides/docker-quickstart/
 
+YOLOV8 prediction , visualisation, case of video prediction
+https://docs.ultralytics.com/modes/predict/#thread-safe-inference
+
 
 YOLO object isolation after segmentation:
 https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with-transparent-pixels-sub-options
