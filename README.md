@@ -14,6 +14,9 @@ https://docs.ultralytics.com/tasks/segment/#models
 Ultralytics YOLO dataset guide :
 https://docs.ultralytics.com/datasets/segment/#coco-dataset-format-to-yolo-format
 
+YOLO V8 metrics:
+https://docs.ultralytics.com/guides/yolo-performance-metrics/#how-to-calculate-metrics-for-yolov8-model
+
 
 Ultralytics real world project :
 https://docs.ultralytics.com/guides/#real-world-projects
@@ -27,6 +30,11 @@ https://docs.ultralytics.com/guides/isolating-segmentation-objects/#isolate-with
 
 Youtube Binary mask custom segmentation
 https://www.youtube.com/watch?v=udR6SwojYXo
+
+
+Tensorflow Unet segmentation cat dog : mask creation
+-----------------------------------------------------
+https://www.tensorflow.org/tutorials/images/segmentation?hl=fr
 
 
 segmentation image (french):
