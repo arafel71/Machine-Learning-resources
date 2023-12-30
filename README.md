@@ -74,6 +74,9 @@ Dataset:
 Underwater TrashCan 1.0
 https://conservancy.umn.edu/handle/11299/214865
 
+Type of annotation:
+https://humansintheloop.org/types-of-image-annotation/
+
 
 
 Manipulation d'images / image treaments :
