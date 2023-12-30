@@ -19,7 +19,7 @@ YOLO V8 metrics:
 https://docs.ultralytics.com/guides/yolo-performance-metrics/#how-to-calculate-metrics-for-yolov8-model
 
 
-Ultralytics real world project :
+Ultralytics real world project :  
 https://docs.ultralytics.com/guides/#real-world-projects
 
 Ultralytics YOLO with DOCKER :
@@ -73,3 +73,13 @@ Dataset:
 
 Underwater TrashCan 1.0
 https://conservancy.umn.edu/handle/11299/214865
+
+
+
+Manipulation d'images / image treaments :
+-----------------------------------------
+https://www.codingame.com/playgrounds/53303/apprendre-python-dans-le-secondaire/manipulations-dimages-i
+
+rectangular image to square with black fill :
+------------------------------------------------
+https://stackoverflow.com/questions/44231209/resize-rectangular-image-to-square-keeping-ratio-and-fill-background-with-black
