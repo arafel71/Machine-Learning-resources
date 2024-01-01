@@ -1,5 +1,11 @@
 Image segmentation :
 -------------------
+
+Kears modele :
+*************
+https://keras.io/api/applications/
+
+
 YOLOV8
 ********
 underwater trashcan
