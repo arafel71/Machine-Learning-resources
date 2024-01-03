@@ -92,3 +92,11 @@ https://www.codingame.com/playgrounds/53303/apprendre-python-dans-le-secondaire/
 rectangular image to square with black fill :
 ------------------------------------------------
 https://stackoverflow.com/questions/44231209/resize-rectangular-image-to-square-keeping-ratio-and-fill-background-with-black
+
+example model in Flutter App:
+-------------------------------
+https://medium.com/geekculture/bring-your-image-classification-model-to-life-with-flutter-5148efbf3647
+
+VGG16 optimization
+------------------
+https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918
