@@ -97,6 +97,16 @@ example model in Flutter App:
 -------------------------------
 https://medium.com/geekculture/bring-your-image-classification-model-to-life-with-flutter-5148efbf3647
 
+****************
+Optimization
+****************
+
+https://www.analyticsvidhya.com/blog/2021/09/a-comprehensive-guide-on-neural-networks-performance-optimization/
+
 VGG16 optimization
 ------------------
 https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918
+
+early stopping
+****************
+https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
