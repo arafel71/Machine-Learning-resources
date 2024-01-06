@@ -74,6 +74,19 @@ Les architectures basées sur les cartes de saillances utilisent bien sûr les a
 segment everything:
 https://larevueia.fr/comment-faire-de-la-segmentation-dimages-avec-python/
 
+-------------------------
+Segmentation patching :
+-------------------------
+
+CLAM model :
+------------
+https://github.com/mahmoodlab/CLAM
+
+MIL multiple instance learning
+------------------------------
+https://paperswithcode.com/task/multiple-instance-learning#:~:text=Multiple%20Instance%20Learning%20is%20a,of%20a%20binary%20classification%20problem.
+
+
 Dataset:
 ------------
 
