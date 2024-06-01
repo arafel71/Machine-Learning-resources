@@ -1,3 +1,9 @@
+Image generation text to image:
+-------------------
+Diffusion model :
+https://ommer-lab.com/research/latent-diffusion-models/
+
+
 Image segmentation :
 -------------------
 
