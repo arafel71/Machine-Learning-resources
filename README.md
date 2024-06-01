@@ -3,6 +3,9 @@ Image generation text to image:
 Diffusion model :
 https://ommer-lab.com/research/latent-diffusion-models/
 
+Coding Stable Diffusion from scratch with Pytorch
+https://www.youtube.com/watch?v=ZBKpAp_6TGI
+
 
 Image segmentation :
 -------------------
