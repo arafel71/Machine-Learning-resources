@@ -6,6 +6,11 @@ https://ommer-lab.com/research/latent-diffusion-models/
 Coding Stable Diffusion from scratch with Pytorch
 https://www.youtube.com/watch?v=ZBKpAp_6TGI
 
+Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models 
+https://www.youtube.com/watch?v=f6PtJKdey8E
+
+I tried to build a REACT STABLE DIFFUSION App in 15 minutes
+https://www.youtube.com/watch?v=3l16wCsDglU
 
 Image segmentation :
 -------------------
