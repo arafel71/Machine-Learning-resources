@@ -6,6 +6,9 @@ https://ommer-lab.com/research/latent-diffusion-models/
 Coding Stable Diffusion from scratch with Pytorch
 https://www.youtube.com/watch?v=ZBKpAp_6TGI
 
+Stable Diffusion from Scratch in PyTorch | Unconditional Latent Diffusion Models
+https://www.youtube.com/watch?v=1BkzNb3ejK4
+
 Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models 
 https://www.youtube.com/watch?v=f6PtJKdey8E
 
