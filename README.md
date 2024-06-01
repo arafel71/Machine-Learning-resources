@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=f6PtJKdey8E
 I tried to build a REACT STABLE DIFFUSION App in 15 minutes
 https://www.youtube.com/watch?v=3l16wCsDglU
 
+Why Does Diffusion Work Better than Auto-Regression?
+https://www.youtube.com/watch?v=zc5NTeJbk-k
+
 Image segmentation :
 -------------------
 
