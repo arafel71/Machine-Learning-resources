@@ -140,6 +140,13 @@ VGG16 optimization
 ------------------
 https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918
 
+
+
 early stopping
 ****************
 https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+
+LLM models 
+---------
+https://github.com/tatsu-lab/stanford_alpaca#data-release
+https://crfm.stanford.edu/2023/03/13/alpaca.html
